@@ -16,6 +16,7 @@
   <li>This change was needed for RR_Rel_1.5.</li>
   <li>This is the first change required for RR_Rel_2.0</li>
   <li>This is the second change required for RR_Rel_2.0</li>
+  <li>This change is being introduced because of RR_Rel_2.5</li>
 </ul>
 
 
