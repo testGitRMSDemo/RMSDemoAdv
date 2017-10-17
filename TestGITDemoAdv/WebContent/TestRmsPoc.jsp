@@ -12,6 +12,7 @@
   <li>Test2</li>
   <li>Test3</li>
   <li>This change is for RR_Rel_1.0</li>
+  <li>RR_Rel_1.0 has new changes.</li>
 </ul>
 
 
