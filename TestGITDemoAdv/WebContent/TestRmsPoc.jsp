@@ -9,6 +9,7 @@
 <body>
 <ul style="list-style-type:square">
   <li>conflict for Rel 4</li>
+  <li> test for conflict</li>
   <li>Test1</li>
   <li>Test2</li>
   <li>Test3</li>
